@@ -11,13 +11,23 @@ In the first part of our analysis, we created a "Retirement Table" that contains
 
 ### Results from Part 1 of Analysis:
 
--- chart 1 insert 
+Top 10 Screenshot of Retirement Titles:
 
--- chart 2 insert 
+<img width="419" alt="retirement_titles" src="https://user-images.githubusercontent.com/67871338/92340367-ffbc4080-f087-11ea-951b-83cc1ee7d7fb.PNG">
+
+Top 10 Screenshot of Last Title for Employees: 
+
+<img width="303" alt="unique_titles" src="https://user-images.githubusercontent.com/67871338/92340370-034fc780-f088-11ea-850a-946fd14ca2f7.PNG">
+
+Total Number of Retirees Per Department:
+
+<img width="123" alt="retiring_titles" src="https://user-images.githubusercontent.com/67871338/92340371-06e34e80-f088-11ea-94d6-cb9cbe100a64.PNG">
 
 ### Results from Part 2 of Analysis: 
 
--- chart 2 insert 
+Top 10 Screenshot of Employees Available for Mentorship Program:
+
+<img width="466" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/67871338/92340372-09de3f00-f088-11ea-9d72-6b13229c3ccc.PNG"> 
 
 ### Overall Results 
 
@@ -30,5 +40,9 @@ In the first part of our analysis, we created a "Retirement Table" that contains
 
 From our analysis, we can see that 90,398 employees will be retiring from Pewlett Hackard in the near future across various departments. Unfortunately, there are not enough employees in the mentorship group to mentor the next group of Pewlett Hackard employees. There are only 1,549 employees in this mentorship group. 
 
+<img width="466" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/67871338/92340372-09de3f00-f088-11ea-9d72-6b13229c3ccc.PNG"> 
+
 - The below table lists all of the titles per mentorship eligibility. The highest department is Senior Staff at 569 employees. 
--- insert chart 
+
+<img width="207" alt="mentorship_eligibility_per_title" src="https://user-images.githubusercontent.com/67871338/92340373-0cd92f80-f088-11ea-93b1-3ca569a2c45f.PNG">
+
