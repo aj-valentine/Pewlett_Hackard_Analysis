@@ -1,7 +1,7 @@
 # Pewlett Hackard Analysis
 Analysis Using SQL 
 
-## Overview of the Pewelett Hackard Analysis :open_file_folder:
+## Overview of the Pewlett Hackard Analysis :open_file_folder:
 
 This project was created for Bobby, an HR manager at a company called Pewlett Hackard. The purpose of the analysis is to provide information about their employees who are retiring within the next few years. They will use this information to gather data about which departments will have the most retirees and how many people they need to hire and train in order to replace the thousands of positions that will become available when the employees retire. This analysis will also help the team generate the retirement packages for all of the retiring employees. This analysis was done entirely in pgAdmin 4 and PostgreSQL 11. We pulled data from 6 CSV files in order to build an employee database and create tables using SQL. 
 
